@@ -11,6 +11,6 @@ I am working on some projects using python language .
 
 
 ###  Project No 3 : Shutdown app with GUI
-
+### Project No 6: Internet Speed Test using Python with GUI
 
 
